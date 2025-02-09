@@ -214,6 +214,12 @@ dotnet run
 <p>
 🚀 Now you have a fully functional REST API with .NET 8 & EF Core!
 </p>
+* #github
+* #dotnet 
+* #csharp
+* #webapi 
+* #dotnetcore 
+* #core
 <p>
     <em>Let me know if you need any improvements or debugging help. Happy coding!</em> 😃
 </p>
