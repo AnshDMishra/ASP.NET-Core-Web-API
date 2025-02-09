@@ -172,7 +172,8 @@ namespace EmployeeAdminPortal.Controllers
 ## 6️⃣ Testing API
 * Use Postman, Swagger, or cURL to test
   ➤ Create Employee (POST)
-  ```c#
+
+```c#
   POST http://localhost:5000/api/Employee
 {
     "name": "John Doe",
@@ -180,17 +181,17 @@ namespace EmployeeAdminPortal.Controllers
     "mobileNo": "1234567890",
     "salary": 60000
 }
-  ```
+```
 
 ➤ Get All Employees (GET)
-  ```c#
+```c#
 GET http://localhost:5000/api/Employee
-  ```
+```
 
 ➤ Get Employee by ID (GET)
-  ```c#
+```c#
 GET http://localhost:5000/api/Employee/{id}
-  ```
+```
 
 ➤ Update Employee (PUT)
   ```c#
