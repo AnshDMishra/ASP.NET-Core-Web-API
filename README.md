@@ -171,8 +171,8 @@ namespace EmployeeAdminPortal.Controllers
 ```
 ## 6️⃣ Testing API
 * Use Postman, Swagger, or cURL to test
-  ➤ Create Employee (POST)
 
+➤ Create Employee (POST)
 ```c#
   POST http://localhost:5000/api/Employee
 {
