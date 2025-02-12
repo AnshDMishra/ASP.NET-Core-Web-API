@@ -212,17 +212,20 @@ DELETE http://localhost:5000/api/Employee/{id}
 dotnet run
 ```
 <p>
-🚀 Now you have a fully functional REST API with .NET 8 & EF Core!
+🚀 By utilizing all of the above, you can create a fully functional REST API with .NET 8 and EF Core!
 </p>
-* #github
-* #dotnet 
-* #csharp
-* #webapi 
-* #dotnetcore 
-* #core
+
 <p>
     <em>Let me know if you need any improvements or debugging help. Happy coding!</em> 😃
 </p>
+
+<p>
+<h5> <em>If you have any suggetions or advice please feel free to connect me </em>:--
+</p>
+<a href="mailto:anshvnm@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+<a href="https://github.com/anshdmishra" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+</h5> 
+
 
 
 
