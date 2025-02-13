@@ -213,7 +213,7 @@ DELETE http://localhost:5000/api/Employee/{id}
 dotnet run
 ```
 <p>
-🚀 By utilizing all of the above, you can create a fully functional REST API with .NET 8 and EF Core!
+🚀 By integrating all these components, you can build a robust and fully functional REST API using .NET 8 and Entity Framework Core! 
 </p>
 
 <p>
