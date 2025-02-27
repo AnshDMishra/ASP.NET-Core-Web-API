@@ -1,4 +1,4 @@
-## ASP.NET Core Web API with .NET 8 and Entity Framework Core 
+## ASP.NET Core Web API with .NET 8 and EF (Entity Framework) Core 
 #### here’s a quick roadmap to help you implement CRUD operations successfully:
 
 ## 1️⃣ Project Setup: 
