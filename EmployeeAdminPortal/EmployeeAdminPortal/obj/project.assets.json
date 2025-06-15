@@ -5175,11 +5175,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Documents\\Net Projects\\Practice\\EmployeeAdminPortal\\EmployeeAdminPortal\\EmployeeAdminPortal.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Documents\\Projects\\Github\\ASP.NET-Core-Web-API\\EmployeeAdminPortal\\EmployeeAdminPortal\\EmployeeAdminPortal.csproj",
       "projectName": "EmployeeAdminPortal",
-      "projectPath": "C:\\Users\\HP\\Documents\\Net Projects\\Practice\\EmployeeAdminPortal\\EmployeeAdminPortal\\EmployeeAdminPortal.csproj",
+      "projectPath": "C:\\Users\\HP\\Documents\\Projects\\Github\\ASP.NET-Core-Web-API\\EmployeeAdminPortal\\EmployeeAdminPortal\\EmployeeAdminPortal.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Documents\\Net Projects\\Practice\\EmployeeAdminPortal\\EmployeeAdminPortal\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Documents\\Projects\\Github\\ASP.NET-Core-Web-API\\EmployeeAdminPortal\\EmployeeAdminPortal\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
